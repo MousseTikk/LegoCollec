@@ -1,14 +1,16 @@
 # LegoCollec
+
 ## About the Project:
+
 As a passionate fan of LEGO, I decided to channel my love for the iconic brick brand into a project for my Mobile Development course in 2023. This project is a LEGO collection manager app, developed using Kotlin and Android Studio. The app leverages the Rebrickable API to fetch detailed LEGO set information and manage a user’s personal collection.
 
 The goal was to create an intuitive and efficient tool to track LEGO sets, allowing users to browse, search, and manage their collections directly from their mobile devices.
 
 ## Key Features:
 
-  - Kotlin Development: I adhered to best practices in Kotlin programming, incorporating modern techniques learned during the course to ensure clean, efficient, and maintainable code.
-  - Rebrickable API Integration: The app connects to the Rebrickable API to fetch data on LEGO sets, such as set details, parts, and instructions.
-  - Local Data Storage: To store the user’s LEGO collection locally on their device, I utilized Room for reliable and efficient local database management, ensuring that the user’s data persists even without an internet connection.
+- Kotlin Development: I adhered to best practices in Kotlin programming, incorporating modern techniques learned during the course to ensure clean, efficient, and maintainable code.
+- Rebrickable API Integration: The app connects to the Rebrickable API to fetch data on LEGO sets, such as set details, parts, and instructions.
+- Local Data Storage: To store the user’s LEGO collection locally on their device, I utilized Room for reliable and efficient local database management, ensuring that the user’s data persists even without an internet connection.
 
 ## Why It’s Not Published
 
@@ -26,14 +28,10 @@ This way, you can explore the app just as I do, without needing to go through an
 
 ## Screenshots:
 
-Here are some screenshots of the LEGO Collection Manager app:
-
 <div style="display: flex; justify-content: space-around;">
-
   <img src="images/home_page.jpg" alt="Home Screen" width="300" />
   <img src="images/search_page.jpg" alt="Search Feature" width="300" />
-  <img src="images/colection_page.jpg" alt="Set Page" width="300" />
-  <img src="images/set_page.jpg" alt="Settings" width="300" />
-
+  <img src="images/collection_page.jpg" alt="Collection Page" width="300" />
+  <img src="images/set_page.jpg" alt="Set Page" width="300" />
 </div>
 
